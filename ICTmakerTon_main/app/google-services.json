@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636785323958",
+    "project_id": "makertoncbnu",
+    "storage_bucket": "makertoncbnu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636785323958:android:3955f83fe789033d385b17",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636785323958-lnndbbtidolmk7t32evmjgvkmk1b0klt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kwOhsOolpvZ8DX7SuACxZNbOM3v4IDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636785323958-lnndbbtidolmk7t32evmjgvkmk1b0klt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
